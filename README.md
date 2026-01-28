@@ -35,9 +35,3 @@ A detailed project report is available in the `docs/` directory.
 - IoT integration
 - Solar panel integration
 - Helmet authentication for anti-theft
-
-## Authors
-- Hasheer Ahmed
-- M D Zameer Hussain
-- Muhammad Furqan
-- Vinay B Subramanya
