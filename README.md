@@ -77,9 +77,8 @@ By utilizing a cloud-based SMS gateway, this system does not require the usage o
 
 🔗 TextBee ESP32 Integration Repository:
 
-```
 [https://github.com/hasheerahmed/ESP32-WiFi-SMS-Without-GSM.git](https://github.com/hasheerahmed/ESP32-WiFi-SMS-Without-GSM.git)
-```
+
 
 ---
 
