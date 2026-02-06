@@ -19,8 +19,8 @@
 LiquidCrystal_I2C lcd(LCD_I2C_ADDR, LCD_COLS, LCD_ROWS);
 
 // ---------- WiFi ----------
-const char* ssid = "Hasheer's M35";
-const char* password = "123456789";
+const char* ssid = "wifi-name";
+const char* password = "wifi-password";
 
 // ---------- TCP Server ----------
 WiFiServer server(4210);
